@@ -46,3 +46,7 @@ group :development do
 end
 
 gem 'devise'
+
+gem 'haml-rails'
+
+gem 'bootstrap-sass'
